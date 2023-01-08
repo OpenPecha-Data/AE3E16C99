@@ -1,0 +1,19 @@
+id: AE3E16C99
+title: 'Mountain of Freshest Saffron: A Long-Life Prayer'
+type: translation
+pechas:
+- I612D3319
+- I14562656
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 12:15:20.107196
+  last_modified_at: 2023-01-04 12:15:20.107211
+  collections:
+  - Jamyang Khyentse Chökyi Lodrö Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I612D3319/8841: 7ED6
+  I14562656/FBB1: 7ED6
